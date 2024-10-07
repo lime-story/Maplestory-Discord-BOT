@@ -30,7 +30,7 @@
 
 | 사이트 이름      |URL|
 | -------- | -------- |
-| 메이플스토리 공홈   |
+| 메이플스토리 공홈   |https://maplestory.nexon.com/Home/Main   |
 |넥슨 오픈 API   |https://openapi.nexon.com/ko/   |
 |다음   |https://www.daum.net/   |
 
