@@ -27,10 +27,13 @@
 
 
 ## 크롤링 과 AIP 사용 
-|사이트 이름  |URL|
-|메이플스토리 공홈|https://maplestory.nexon.com/Home/Main|
-|넥슨 오픈 API|https://openapi.nexon.com/ko/|
-|다음|https://www.daum.net/|
+
+| 사이트 이름      |URL|
+| -------- | -------- |
+| 메이플스토리 공홈   |
+|넥슨 오픈 API   |https://openapi.nexon.com/ko/   |
+|다음   |https://www.daum.net/   |
+
 
 ## 패치내용 
 
