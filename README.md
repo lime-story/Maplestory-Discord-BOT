@@ -9,7 +9,8 @@
 
 ## 🔗초대링크
 
-[루시드로이드 초대하기](https://discord.com/oauth2/authorize?client_id=1249295738966638644&permissions=0&integration_type=0&scope=bot+applications.commands) 누르시면 디스코드 서버에 초대가능합니다!
+[루시드로이드 초대하기](https://discord.com/oauth2/authorize?client_id=1249295738966638644&permissions=0&integration_type=0&scope=bot+applications.commands)<br>
+누르시면 디스코드 서버에 초대가능합니다!
 
 
 ## 📖 사용 방법
@@ -35,6 +36,12 @@
 | 메이플스토리 공홈   |https://maplestory.nexon.com/Home/Main   |
 |넥슨 오픈 API   |https://openapi.nexon.com/ko/   |
 |다음   |https://www.daum.net/   |
+
+
+## 문의 과 참고
+
+[디스코드](https://discord.gg/vFMhrbjMDY)
+
 
 
 ## 패치내용 
