@@ -10,7 +10,7 @@
 
 ## 🔗초대링크
 
-[루시드로이드 초대하기](https://discord.com/oauth2/authorize?client_id=1249295738966638644&permissions=0&integration_type=0&scope=bot+applications.commands)<br>
+[루시드로이드 초대하기](https://discord.com/oauth2/authorize?client_id=1249295738966638644&permissions=8&integration_type=0&scope=bot+applications.commands)<br>
 누르시면 디스코드 서버에 초대가능합니다!
 
 
