@@ -46,12 +46,17 @@
 |다음   |https://www.daum.net/   |
 
 
-## 📞문의 와 참고
+## 📞문의 와 참고 및 도움
 
 [디스코드](https://discord.gg/vFMhrbjMDY)<br>
 디스코드 에서 물어보세요!!<br>
 [코드예제](https://github.com/lime-story/Maplestory-Discord-BOT/tree/main/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EB%B4%87%20%EC%BD%94%EB%93%9C%20%EC%98%88%EC%A0%9C)<br>
 코드 예제 입니다 유용한 코드 아닌 예시로 작동원리 알려주는 코드 입니다!!<br>
+
+| 도움을 준 사람및 자료 |
+| -------- |
+| 셀리느 |
+| Copilot |
 
 
 ## 패치내용 
