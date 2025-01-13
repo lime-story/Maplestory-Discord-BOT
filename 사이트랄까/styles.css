@@ -1,0 +1,163 @@
+/* 기본 설정 */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  color: #a15477;
+  background-color: #292929;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 기본 설정 */
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 헤더 스타일 */
+.header {
+  background-color: #ffb8d8;
+  border-bottom: 3px solid #ff9ea2;
+  padding: 0.1rem 0; /* 헤더 높이를 줄이기 위해 패딩 수정 */
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 8rem; /* 좌우 패딩 추가 */
+}
+
+.header .logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.header .logo-img {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.header h1 {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #ffffff;
+  transition: color 0.3s;
+}
+
+.nav a:hover {
+  color: #806b6b;
+}
+
+/* 섹션 스타일 */
+.section {
+  padding: 4rem 1rem;
+  flex: 1; /* This makes sure the main section takes up available space */
+}
+
+.section .container {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start; /* 왼쪽 정렬 */
+  align-items: flex-start; /* 텍스트와 이미지를 위쪽으로 정렬 */
+  text-align: left; /* 텍스트 정렬 */
+  padding: 0; /* 좌우 여백 제거 */
+}
+
+.section .text-content {
+  flex: 1;
+  max-width: 500px;
+  color: #da5a93;
+  margin-left: 0; /* 왼쪽 마진 제거 */
+  margin-right: 25rem; /* 이미지와의 간격만 유지 */
+}
+
+.section .subtitle {
+  font-size: 1rem; /* 작은 글씨로 스타일링 */
+}
+
+.section .buttons {
+  display: flex;
+  gap: 4rem;
+  margin-top: 2rem;
+  justify-content: center;
+}
+
+.button {
+  background-color: #ffb8d8;
+  padding: 1.2rem 2rem;
+  border-radius: 15px;
+  color: #292929;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #f589ba;
+}
+
+.section .image-content {
+  flex: 1;
+  max-width: 1280px;
+  display: flex;
+}
+
+.section .responsive-img {
+  max-width: 160%;
+  height: auto;
+  border-radius: 15px;
+}
+
+.section h2 {
+  font-size: 5rem;
+  margin-bottom: 2rem;
+  color: #ffb8d8;
+}
+
+/* 푸터 스타일 */
+.footer {
+  background-color: #1f1b1b;
+  color: #dbacac;
+  padding: 1rem 0;
+  text-align: center;
+  margin-top: auto; /* This makes sure the footer sticks to the bottom */
+}
+
+.footer .container {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* 원하는 텍스트로 파란글씨 변경 */
+.footer a {
+  color: #dbacac;
+}
+
+.footer a:hover {
+  color: #ffffff; /* 호버 시 색상 변경 */
+}
