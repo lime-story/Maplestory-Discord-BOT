@@ -50,6 +50,8 @@
 
 ## 📞문의 와 참고 및 도움
 
+[웹사이트](https://lime-story.github.io/lucidroid.github.io/)<br>
+웹사이트 입니다!<br>
 [디스코드](https://discord.gg/vFMhrbjMDY)<br>
 디스코드 에서 물어보세요!!<br>
 [코드예제](https://github.com/lime-story/Maplestory-Discord-BOT/tree/main/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EB%B4%87%20%EC%BD%94%EB%93%9C%20%EC%98%88%EC%A0%9C)<br>
