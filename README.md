@@ -12,7 +12,7 @@
 
 디스코드 서버 > App 디렉터리 > `루시드로이드` 검색하기 <br>
 또는<br>
-[루시드로이드 초대하기](https://discord.com/oauth2/authorize?client_id=1249295738966638644&permissions=8&integration_type=0&scope=bot+applications.commands)<br>
+[루시드로이드 초대하기](https://discord.com/discovery/applications/1249295738966638644)<br>
 누르시면 디스코드 서버에 초대가능합니다!
 
 
